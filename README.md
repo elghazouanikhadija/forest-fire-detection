@@ -1,3 +1,4 @@
+# Forest Fire Detection using Computer Vision and IoT
 
 <div align="center">
 <img src="images/fire_detection_example.png" width="600">
