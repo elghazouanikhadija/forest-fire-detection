@@ -1,8 +1,11 @@
-![Fire Detection Example](images/fire_detection_example.png)
-*Caption: Example of fire and Smoke detection with bounding boxes*
 
-# Forest Fire Detection using Computer Vision and IoT
+<div align="center">
+<img src="images/fire_detection_example.png" width="600">
+</div>
 
+<p align="center">
+<em>Caption: Example of fire and smoke detection with bounding boxes</em>
+</p>
 
 
 A real-time forest fire detection system using YOLO-based models and IoT camera feeds.
