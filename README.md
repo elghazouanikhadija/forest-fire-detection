@@ -1,3 +1,6 @@
+![Fire Detection Example](images/fire_detection_example.jpg)
+*Caption: Example of fire and Smoke detection with bounding boxes*
+
 # Forest Fire Detection using Computer Vision and IoT
 
 
